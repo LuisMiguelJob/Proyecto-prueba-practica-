@@ -55,7 +55,7 @@
                                         <div class="d-flex px-3 py-1">
                                             <h6 class="mb-0 text-md">
                                                 <a class="btn btn-primary" type="button" href="{{ route('subjects.edit', $subject->id) }}">
-                                                    etc
+                                                    Edit
                                                 </a>
                                             </h6>
                                         </div>
